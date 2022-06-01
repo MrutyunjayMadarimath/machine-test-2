@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.sec-three{
+    background-color: #CBFAFF;
+}
+
+.fs-8{
+    font-size: 0.8rem;
+}
+
+input.form-control{
+    height: 23.61px !important;
+    width: 326.21px !important;
+    border-radius: 10px;
+}
+
+button.btn-primary{
+    background-color: #007AC3!important;
+}
+
+.form{
+    border-radius: 40px;
+}
+
+.sec-three > a{
+    color:#2c9cdd
+}
+
+
+
