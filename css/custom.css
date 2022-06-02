@@ -10,7 +10,7 @@ body{
 }
 
 .fs-8{
-    font-size: 0.8rem;
+    font-size: 0.7rem;
 }
 
 input.form-control{
@@ -31,5 +31,9 @@ button.btn-primary{
     color:#2c9cdd
 }
 
+select.form-control,
+textarea.form-control{
+    border-radius: 40px;
+}
 
 
